@@ -2,6 +2,6 @@
   "name": "Swiss Staking AG",
   "website": "https://swiss-staking.ch",
   "description": "Swiss Staking has over ~100,000 delegators across 20+ networks and runs its Eigenlayer and Ethereum operator in a former military bunker in Switzerland for maximal security and reliability.",
-  "logo": "https://swiss-staking.ch/images/logo.png",
+  "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/swiss-staking/logo.png",
   "twitter": "https://x.com/swiss_staking"
 }
