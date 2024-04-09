@@ -1,0 +1,9 @@
+{
+    "name": "AltLayer MACH",
+    "website": "https://altlayer.io/",
+    "description": "AltLayer MACH is a fast finality AVS for OP Mainnet and Arbitrum One. As an AVS, users can delegate ETH or LSTs to any of the registered operators. The economic collateral deposited to secure MACH is then used to attest to the validity of a given rollup’s state; thereby offering a fast finality layer for rollups. It will offer the following core services to end users on these rollups: fast confirmation for rollup transactions, crypto-economic security to detect any malicious network participants and decentralized validation of rollup states.",
+    "logo": "https://raw.githubusercontent.com/alt-research/eigendata/dev/avs/AltlayerMach/logo.png",
+    "twitter": "https://twitter.com/alt_layer"
+}
+
+
