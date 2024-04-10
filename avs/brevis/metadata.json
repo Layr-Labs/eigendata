@@ -1,5 +1,5 @@
 {
-    "name": "Brevis coChain",
+    "name": "Brevis coChain AVS",
     "website": "https://brevis.network",
     "description": "Brevis is a smart ZK coprocessor that empowers smart contracts to read from and utilize the full historical on-chain data from any chain, and run customizable computations in a completely trust-free way to power use cases such as data-driven DeFi, zkBridge, ZK identity and more. Using EigenLayer, Brevis coChain AVS enable a new crypto-economics security with ZK fraud proof ZK Coprocessor model. With Brevis AVS, developers can build data-driven dApps that operate at a significantly lower cost when compared to the pure-ZK model.",
     "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/avs/brevis/logo.png",
