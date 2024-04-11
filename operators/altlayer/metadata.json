@@ -2,6 +2,6 @@
     "name": "AltLayer",
     "website": "https://altlayer.io/",
     "description": "AltLayer is a decentralized protocol that facilitates the launch of native and restaked rollups with both optimistic and zk rollup stacks.",
-    "logo": "https://altlayer-image-store.alt.technology/avs-operators/images/altlayer.png",
+    "logo": "https://raw.githubusercontent.com/alt-research/eigendata/dev/operators/altlayer/logo.png",
     "twitter": "https://twitter.com/alt_layer"
 }
