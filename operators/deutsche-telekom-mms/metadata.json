@@ -1,7 +1,7 @@
 {
   "name": "Deutsche Telekom MMS",
   "website": "https://geschaeftskunden.telekom.de/digitale-loesungen/infrastructure-as-a-service/staking",
-  "description": "Deutsche Telekom MMS",
+  "description": "Deutsche Telekom offers enterprise-grade blockchain infrastructure services, ensuring unparalleled reliability and security for decentralized networks and AVS.",
   "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/deutsche-telekom-mms/logo.png",
   "twitter": "https://twitter.com/mms_Blockchain"
 }
