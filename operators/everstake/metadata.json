@@ -1,0 +1,7 @@
+{
+  "name": "Everstake",
+  "website": "https://everstake.one",
+  "description": "Everstake is one of the world biggest validators, servicing 735,000+ users across 70+ blockchains. As an operator on Ethereum, we handle a share of 1.9 staked supply, or 600,000+ ETH from 9,000+ stakers. Everstake has validated Ethereum since PoS genesis, retaining a slashing-free operation. We boast ~99.9 uptime, battle-tested infrastructure, and a team of seasoned experts. In EigenLayer, Everstake mission is to support the most promising AVSs and provide the best delegation services for stakers.",
+  "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/everstake/logo.png",
+  "twitter": "https://twitter.com/everstake_pool"
+}
