@@ -1,7 +1,7 @@
 {
     "name": "DODOchain MACH (Powered by AltLayer)",
     "website": "https://www.dodochain.com/",
-    "description": "DODOchain, an Omni-Trading Layer3 powered by Arbitrum Orbit, acts as the rollup-level liquidity layer, unifying liquidity from various chains into one platform. It supports swaps and cross-chain transactions, streamlining the integration and movement of assets in the Omni-chain era.",
+    "description": "DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer. As a rollup-level liquidity layer, it connects Ethereum rollups and Bitcoin networks, consolidating liquidity into a single platform for seamless cross-chain trading. Leveraging its status as a Restaked Rollup, DODOchain offers decentralized verification and rapid finality, significantly enhancing both security and efficiency in the Omni-chain era.",
     "logo": "https://raw.githubusercontent.com/alt-research/eigendata/dev/avs/DODOchainMach/logo.png",
     "twitter": "https://twitter.com/DODO_chain"
 }
