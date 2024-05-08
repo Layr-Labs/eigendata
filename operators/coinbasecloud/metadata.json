@@ -1,7 +1,7 @@
 {
   "name": "Coinbase",
   "website": "https://www.coinbase.com/developer-platform/products/staking",
-  "description": "Coinbase maintains world-class, enterprise-grade staking infrastructure across multiple networks with zero slashing events and a 99% uptime guarantee.",
+  "description": "Coinbase maintains world-class, enterprise-grade staking infrastructure across multiple networks with zero slashing events.",
   "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/coinbasecloud/logo.png",
   "twitter": "https://twitter.com/CoinbaseDev"
 }
