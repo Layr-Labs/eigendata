@@ -1,0 +1,7 @@
+{
+    "name": "SlaLayer",
+    "website": "https://www.slalayer.xyz/",
+    "description": "SLALayer enabling dApps to activate Service Level Agreements, backed by restaked assets that can be slashed for non-performance. It supports critical infrastructure like Subgraphs, Filecoin/IPFS storage, Oracles, and RPCs. Learn more at https://www.slalayer.xyz/",
+    "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/SlaLayer/logo.png",
+    "twitter": "https://x.com/sla_layer"
+}
