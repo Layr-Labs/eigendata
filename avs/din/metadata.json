@@ -1,0 +1,7 @@
+{
+    "name": "DIN",
+    "website": "https://din.build/",
+    "description": "DIN is a decentralized B2B service discovery marketplace, enhancing the performance, reliability, and cost-effectiveness of dapp development through a network of 50+ Web3 Infrastructure providers. DIN is capable of serving 14+ popular blockchain network APIs and RPCs with high throughput and performance with no single point of failure. DIN is currently in a federated phase, progressively decentralizing traffic across Infura and MetaMask.",
+    "logo": "https://raw.githubusercontent.com/DIN-center/eigendata/master/avs/din/logo.png",
+    "twitter": "https://x.com/dinbuild"
+}
