@@ -1,7 +1,7 @@
 {
 	"name": "Kraken",
 	"website": "https://www.kraken.com",
-	"description": "Powering Kraken Earn - the crypto platform for smarter investing. Not intended for use by external delegators.",
+	"description": "Powering Kraken Earn - the crypto platform for smarter investing.",
 	"logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/Kraken/logo.png",
 	"twitter": "https://x.com/krakenfx/"
 }
